@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 12 20:39:14 2020
-
-@author:Adithya,lakshetha
-"""
-
 #ENTER YOUR MYSQL PASSWORD IN LINE 12 PASSWD FIELD 
 import mysql.connector as ch
 import random
